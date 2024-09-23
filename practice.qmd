@@ -1,0 +1,25 @@
+---
+title: "John's test file"
+subtitle: "YouTube Video fun"
+author: "John Firnschild"
+toc: True
+
+format:
+    pdf: default
+
+---
+
+
+
+
+## This is our project scope
+
+We are watching a youtube video
+[Quatro Demo](https://github.com/jayfirns/country-analytics)  
+
+## Beckey Boo is not impressed
+
+She's cute and annoying equally!  She just wants me to pet her and she hates the computer.  I am luck to have a crazy dog like this <3    
+I love my family!
+
+### September 23, 2024

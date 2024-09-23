@@ -1,3 +1,7 @@
+---
+created: 2024-09-23T17:06
+updated: 2024-09-23T17:06
+---
 # Country Analytics Reports w/ Quarto
 
 ![Report](images/report-sample.png)
